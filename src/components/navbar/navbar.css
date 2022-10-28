@@ -1,0 +1,30 @@
+.navbar-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 200px;
+    align-items: center;
+    text-align: center;
+}
+.credlogo{
+    height: 66px;
+    width: auto;
+}
+.navbar-link-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#navbarlink{
+    opacity: 0.8;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 36px;
+    white-space: nowrap;
+    margin-right: 20px;
+    margin-left: 36px;
+    text-decoration: none;
+    outline: 0px;
+    color: var(--white);
+}
