@@ -1,0 +1,18 @@
+.button{
+    display: inline-flex;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    pointer-events: auto;
+    text-align: center;
+    padding: 20px 65px;
+    background-color: white;
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    line-height: 30px;
+    border-radius: 40px;
+    cursor: pointer;
+}
